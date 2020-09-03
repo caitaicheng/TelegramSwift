@@ -3,7 +3,7 @@
 1. Clone this repository with submodules:
 	
 	```sh
-	git clone https://github.com/overtake/TelegramSwift.git --recurse-submodules
+	git clone https://github.com/caitaicheng/TelegramSwift.git --recurse-submodules
 	```
 2.  ```brew install cmake ninja openssl@1.1 zlib```
 3. Open `Telegram-Mac.xcworkspace` in **Xcode 10.3**.  Avoid Xcode 10.11+ because it causes additional errors when building the libraries with optimizations turned on.  
